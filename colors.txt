@@ -1,0 +1,99 @@
+$tw-gray-100: #f7fafc;
+$tw-gray-200: #edf2f7;
+$tw-gray-300: #e2e8f0;
+$tw-gray-400: #cbd5e0;
+$tw-gray-500: #a0aec0;
+$tw-gray-600: #718096;
+$tw-gray-700: #4a5568;
+$tw-gray-800: #2d3748;
+$tw-gray-900: #1a202c;
+
+$tw-red-100: #fff5f5;
+$tw-red-200: #fed7d7;
+$tw-red-300: #feb2b2;
+$tw-red-400: #fc8181;
+$tw-red-500: #f56565;
+$tw-red-600: #e53e3e;
+$tw-red-700: #c53030;
+$tw-red-800: #9b2c2c;
+$tw-red-900: #742a2a;
+
+$tw-orange-100: #fffaf0;
+$tw-orange-200: #feebc8;
+$tw-orange-300: #fbd38d;
+$tw-orange-400: #f6ad55;
+$tw-orange-500: #ed8936;
+$tw-orange-600: #dd6b20;
+$tw-orange-700: #c05621;
+$tw-orange-800: #9c4221;
+$tw-orange-900: #7b341e;
+
+$tw-yellow-100: #fffff0;
+$tw-yellow-200: #fefcbf;
+$tw-yellow-300: #faf089;
+$tw-yellow-400: #f6e05e;
+$tw-yellow-500: #ecc94b;
+$tw-yellow-600: #d69e2e;
+$tw-yellow-700: #b7791f;
+$tw-yellow-800: #975a16;
+$tw-yellow-900: #744210;
+
+$tw-green-100: #f0fff4;
+$tw-green-200: #c6f6d5;
+$tw-green-300: #9ae6b4;
+$tw-green-400: #68d391;
+$tw-green-500: #48bb78;
+$tw-green-600: #38a169;
+$tw-green-700: #2f855a;
+$tw-green-800: #276749;
+$tw-green-900: #22543d;
+
+$tw-teal-100: #e6fffa;
+$tw-teal-200: #b2f5ea;
+$tw-teal-300: #81e6d9;
+$tw-teal-400: #4fd1c5;
+$tw-teal-500: #38b2ac;
+$tw-teal-600: #319795;
+$tw-teal-700: #2c7a7b;
+$tw-teal-800: #285e61;
+$tw-teal-900: #234e52;
+
+$tw-blue-100: #ebf8ff;
+$tw-blue-200: #bee3f8;
+$tw-blue-300: #90cdf4;
+$tw-blue-400: #63b3ed;
+$tw-blue-500: #4299e1;
+$tw-blue-600: #3182ce;
+$tw-blue-700: #2b6cb0;
+$tw-blue-800: #2c5282;
+$tw-blue-900: #2a4365;
+
+$tw-indigo-100: #ebf4ff;
+$tw-indigo-200: #c3dafe;
+$tw-indigo-300: #a3bffa;
+$tw-indigo-400: #7f9cf5;
+$tw-indigo-500: #667eea;
+$tw-indigo-600: #5a67d8;
+$tw-indigo-700: #4c51bf;
+$tw-indigo-800: #434190;
+$tw-indigo-900: #3c366b;
+
+$tw-purple-100: #faf5ff;
+$tw-purple-200: #e9d8fd;
+$tw-purple-300: #d6bcfa;
+$tw-purple-400: #b794f4;
+$tw-purple-500: #9f7aea;
+$tw-purple-600: #805ad5;
+$tw-purple-700: #6b46c1;
+$tw-purple-800: #553c9a;
+$tw-purple-900: #44337a;
+
+$tw-pink-100: #fff5f7;
+$tw-pink-200: #fed7e2;
+$tw-pink-300: #fbb6ce;
+$tw-pink-400: #f687b3;
+$tw-pink-500: #ed64a6;
+$tw-pink-600: #d53f8c;
+$tw-pink-700: #b83280;
+$tw-pink-800: #97266d;
+$tw-pink-900: #702459;
